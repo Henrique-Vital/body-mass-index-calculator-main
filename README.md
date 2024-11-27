@@ -55,8 +55,6 @@ Seus usuários devem ser capazes de:
 - Veja o layout ideal para a interface dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco e foco de todos os elementos interativos na página
 
-[Desafio Frontend Mentor](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T)
-
 <br>
 
 ## ✔️ Comportamento esperado
@@ -80,7 +78,3 @@ Adicione a faixa de peso saudável do indivíduo com base nas categorizações i
 
 <br>
 
-## 🙋🏻‍♂️ Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
-| :---: |
