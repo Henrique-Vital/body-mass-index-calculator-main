@@ -1,7 +1,4 @@
 # 🏆 Calculadora de IMC
-![GitHub repo size](https://img.shields.io/github/repo-size/BrunoOliveira16/body-mass-index-calculator?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/body-mass-index-calculator?style=for-the-badge)
-![Status projeto](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN?style=for-the-badge)
 
 ## ✔️ Tecnologias Utilizadas
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,24 +8,6 @@
 <img src="./src/assets/screenshot.jpg" alt="screenshot do projeto" />
 
 <br>
-
-## 📎 Sumario
-
-- 📌 Resumo do Projeto
-- 🛠️ Como executar o projeto
-- ⭐ Desafio do Projeto
-- ✔️ Comportamento esperado
-- 📂 Temas abordados
-- 🙋🏻‍♂️ Autor
-- 💻 Licença
-
-<br>
-
-## 📌 Resumo do Projeto
-Este projeto é um desafio do frontend mentor, cujo objetivo é reproduzir o layout disponibilizado no figma e todas as funcionalidades e requisitos que o desafio pede. As tecnologias e forma como serão construidas fica a cargo do desenvolvedor. Para este projeto foi utilizado React + TypeScript + Styled-components.
-
-<br>
-
 ## 🛠️ Como executar o projeto
 Para executar este projeto localmente em sua máquina, siga estas etapas:
 
